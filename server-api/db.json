@@ -1,0 +1,130 @@
+{
+  "grocery": [
+    {
+      "id": "41fd4fd9-95c7-4809-96db-a147d352fdbb",
+      "image_url": "https://dummyimage.com/400x400/28200e/000&text=Unbranded Metal Chair",
+      "stock": -1,
+      "productName": "Gravitas",
+      "price": 43,
+      "productDescription": "Glory and Fame;Glory and Fame;Glory and Fame;Glory and Fame",
+      "favorite": 0
+    },
+    {
+      "id": "20cc33f1-223b-4cf0-878d-fdedb3f60b56",
+      "image_url": "",
+      "stock": 29,
+      "productName": "Dagers",
+      "price": 98,
+      "productDescription": "Gladius have been major weapon since Roman Empire, why Dagers are less than them? ",
+      "favorite": 0
+    },
+    {
+      "id": "ab284424-8e46-4a3e-8e13-e179b0ab8bb5",
+      "image_url": "",
+      "stock": 38,
+      "productName": "Cotton ",
+      "price": 66,
+      "productDescription": "Cotton are valable since industrial revolution;Cotton are valable since industrial revolution",
+      "favorite": "1"
+    },
+    {
+      "id": "c34287bf-9cb7-40a7-ad07-6534e45a6868",
+      "image_url": "",
+      "stock": 21,
+      "productName": "Chair",
+      "price": 47,
+      "productDescription": "Some description for the chair with no significant importance ",
+      "favorite": "1"
+    },
+    {
+      "id": "41fb4f07-22fd-4ef6-b23c-1ac022b57d11",
+      "image_url": "",
+      "stock": 28,
+      "productName": "Stone",
+      "price": 71,
+      "productDescription": "Stones are dangarous in the capable hands",
+      "favorite": "1"
+    },
+    {
+      "id": "b590e450-1e0c-4344-92b8-e1f6cc260587",
+      "image_url": "",
+      "stock": 0,
+      "productName": "Bow",
+      "price": 1,
+      "productDescription": "Ranged weapon since 10000BCE for the humans to kill each other",
+      "favorite": 0
+    },
+    {
+      "id": "1db18081-575b-47b2-b0d8-395314a6b327",
+      "image_url": "",
+      "stock": 44,
+      "productName": "Gaul",
+      "price": 62,
+      "productDescription": "France during Rome and before Ceaser's conquest",
+      "favorite": 0
+    },
+    {
+      "id": "7eca1ea3-0bf6-4b00-bb6b-e08ba834dd4e",
+      "image_url": "e",
+      "stock": 45,
+      "productName": "Table",
+      "price": 49,
+      "productDescription": "Wooden Table wihtout any other ability just standard wooden table ",
+      "favorite": 0
+    },
+    {
+      "id": "57483e83-1378-42f3-8d40-e4d75e4ff767",
+      "image_url": "",
+      "stock": 44,
+      "productName": "Rifle",
+      "price": 23,
+      "productDescription": "Rifles are modern killing machines",
+      "favorite": 0
+    },
+    {
+      "id": "11a7aee9-d712-4395-9c35-bde70c9f0171",
+      "image_url": "",
+      "stock": 41,
+      "productName": "Silver Shield",
+      "price": 71,
+      "productDescription": "Known for their serve to Alexander's Silver shield regiment",
+      "favorite": 0
+    },
+    {
+      "id": "7ac6d979-0771-4b8c-809d-eb8aa36be7f4",
+      "image_url": "",
+      "stock": 3,
+      "productName": "Sword",
+      "price": 93,
+      "productDescription": "Very sharp sword , should not be mistaken for katanas ",
+      "favorite": 0
+    },
+    {
+      "id": "ea46848e-f2fe-4d8f-a0b2-c30c0f1d2417",
+      "image_url": "",
+      "stock": 10,
+      "productName": "Axe",
+      "price": 90,
+      "productDescription": " Strong Axe, used mainly to cut trees off",
+      "favorite": 0
+    },
+    {
+      "id": "031806fb-89b6-4790-a889-5c0fa94d380a",
+      "image_url": "",
+      "stock": 26,
+      "productName": "Sugar",
+      "price": 4,
+      "productDescription": "Sugar from carribbean plantations such as hispaniola or triniad",
+      "favorite": 0
+    },
+    {
+      "id": "9dbcefef-804d-483d-8e1c-28941866a85c",
+      "image_url": "",
+      "stock": 28,
+      "productName": "Katana",
+      "price": 45,
+      "productDescription": " Japanese katana sword from Sengoku Jidai",
+      "favorite": 0
+    }
+  ]
+}
